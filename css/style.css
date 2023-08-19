@@ -1,0 +1,78 @@
+/*common start*/
+body{
+	font-family: 'Popins', san-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;
+
+}
+
+/*common end*/
+/*header start*/
+header{
+	padding: 15px 0;
+ background-color: #F0FF0;
+}
+.c_nav{}
+.logo{}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important;
+	color: #000000 !important;
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+.btn_cm{
+	font-family: 'Roboto', san-serif;
+	color: white !important;
+	background-color: #21B573;
+	border-radius: 33px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn_sign{
+	/* padding: 12px 28px;*/
+	margin-left: 15px;
+	width: 105px;
+	height: 45px;
+}
+.btn_cm:hover{
+	background-color: #FD511A !important;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-color: #F0FFF0;
+	padding-bottom: 65px;
+}
+.b_text{}
+.b_p1{
+	color: #FD511A;
+}
+.b_h1{
+	margin: 10px 0 20px;
+	padding-right: 105px;
+	font-size: 48px;
+	font-weight: 700;
+	color: #000000;
+	line-height: 70px;
+}
+.b_h1 span{
+	color: #21B573;
+}
+.b_p2{
+	padding-right: 110px;
+	line-height: 36px;
+}
+.btn_link{
+	margin-top: 15px;
+	width: 155px;
+	height: 45px;
+}
+
+.b_img{}
+.b_img img{}
+/*banner end*/
